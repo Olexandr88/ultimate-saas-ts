@@ -13,7 +13,7 @@ https://utlimate-saas-js.vercel.app
 - Authentication with NextAuth.js (Own Your Data ✅)
   - Email with magic link
   - Github 
-  - Many other oauth providers available [check their docs](https://next-auth.js.org/configuration/providers/oauth-provider)
+  - Many other oauth providers available [check their docs](https://next-auth.js.org/configuration/providers/oauth)
 - Payment with Stripe
   - Stripe checkout
   - Stripe billing portal
